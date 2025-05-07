@@ -1,5 +1,5 @@
 // script.js
-const apiKey = "3290a59782923ae83c552d18b04d410a"; // Substitua pela sua chave da OpenWeatherMap
+const apiKey = "Chave_API"; // Substitua pela sua chave da OpenWeatherMap
 
 function buscarTempo() {
   const cidade = document.getElementById("cidade").value;
